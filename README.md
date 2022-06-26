@@ -1,7 +1,7 @@
 # Hospital-Department-OperationRooms-Web-App
 
 ## A full stack web application for operation rooms
-### Tools/Languages: MySQL,phpAdmin,Javascript,CSS
+### Tools/Languages/Database: MySQL,phpAdmin,Javascript,CSS,HTML,Python
 ### Course: Database Systems (SBEN230)
 ### Team Members: 
 #### Abdullah Mohamed
